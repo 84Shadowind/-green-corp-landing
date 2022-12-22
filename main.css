@@ -72,7 +72,6 @@ header {
         max-width: 550px;
       }
       .about {
-        /* ... */
         background: url('img/back.png') no-repeat;
         background-position: center;
         background-size: cover;
